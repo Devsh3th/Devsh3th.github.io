@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: http://www.devsh3th.github.io
+title: Devansh Sheth
+email: devanshsheth09@gmail.com
+author: Devansh Sheth
+description: "Devansh's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,13 +26,13 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/Devsh3th  
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:devanshsheth09@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
+    url: https://www.linkedin.com/in/devanshsheth09/
   - icon: file-pdf-o
     title: CV
     url: img/CassolDanielaCV.pdf
