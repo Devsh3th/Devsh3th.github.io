@@ -1,0 +1,9 @@
+---
+layout: default
+img: systemPipeR_site.png
+category: Projects
+title: "Correlation between Wildfire, Temperature and Vegetation"
+description: |
+---
+* Used more than 45GB of satellite data MODIS Terra V6 for wildfire, temperature and vegetation for time duration of 1 year for all the states of the US and transformed satellite data in form of HDF files to csv files.
+* Analyzed and visualized the data of 1 year and found correlation between wildfire, temperature and vegetation by using pandas

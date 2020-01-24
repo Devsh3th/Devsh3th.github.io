@@ -1,0 +1,10 @@
+---
+layout: default
+img: systemPipeR_site.png
+category: Projects
+title: "Credit Card Default Predictor"
+description: |
+---
+* Developed a prediction system by implementing machine learning algorithms ( Naive bayes, KNN, Logistic Regression and SVM) from scratch to predict if the person is going to default on the next credit card bill.
+* Responsible for implementing Naive Bayes algorithm and achieved more than 80% accuracy.
+* Feature selection was done by plotting heat map of all the features and reduced from 25 features to 12 features.
