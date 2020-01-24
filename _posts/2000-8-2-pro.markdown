@@ -1,0 +1,9 @@
+---
+layout: default
+img: systemPipeR_site.png
+category: Projects
+title: "Idea Cafè"
+description: |
+---
+* Designed a web portal where people can submit their ideas and view other's ideas and also comment or give ratings. These ideas were arranged categorically. Any user with an account can post ideas or comment on other's ideas.
+* This was developed as a part of state level Hackathon and competed with more than 200 teams, and this project was selected in the top 8 teams in the Grand Finale of the Hackathon.
