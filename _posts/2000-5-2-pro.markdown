@@ -1,0 +1,10 @@
+---
+layout: default
+img: systemPipeR_site.png
+category: Projects
+title: "Retail Intelligence"
+description: |
+---
+* Developed a system to manage queues at the billing counter of retail stores.
+* Used Computer Vision to monitor the queue and a notification was sent to the store manager whenever queue exceeded its predefined threshold.
+* Analyzed various factors that lead to queue exceeding its limit and helped stores to manage the queues which would increase the sales by 50%

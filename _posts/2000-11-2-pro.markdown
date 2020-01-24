@@ -1,0 +1,9 @@
+---
+layout: default
+img: systemPipeR_site.png
+category: Projects
+title: "Global Superstore Sales"
+description: |
+---
+* Analyzed the sales of more than 52000 products for a global superstore over a period of 4 years.
+* The factors analyzed were products from which sub category were most profitable, what was pattern of sales during each year, what is the relation of profit earned with respect to discount given, profit from different parts of the world, which product was more popular in which country, what was the pattern of each product over the years. All the analysis was visualized in Tableau to understand the results.
