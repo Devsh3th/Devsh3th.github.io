@@ -2,11 +2,14 @@
 layout: default
 img: code.jpg
 category: Experiences
-title: "Postdoctoral Researcher"
+title: "Project Trainee"
 description: |
 ---
 
-* __2017 – Current__
-* University of California, Riverside
-* Position: ​Postdoctoral Researcher under Dr. Thomas Girke
-* Activities: ​Current research focuses on the development of computational data analysis methods for genome biology. Please, see more information [here](https://www.dcassol.com/#projects).
+* __August 2018 – April 2019__
+* Softvan Technologies, Ahmedabad, India
+* Position: ​Project Trainee
+* Activities: ​Developed a system to manage queues at the billing counter of retail stores.
+* Used Computer Vision to monitor the queue and a notification was sent to the store manager whenever queue exceeded its predefined threshold.
+* Analyzed various factors that lead to queue exceeding its limit and helped stores to manage the queues which would increase the sales by 50%.
+
