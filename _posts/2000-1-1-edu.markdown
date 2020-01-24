@@ -2,13 +2,12 @@
 layout: default
 img: phd.JPG
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: Master of Science in Computer Science
+description: 2019-2020(Expected)
 ---
 
-* __2012 - 2016__
-* Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-* The global study of differentially regulated transcriptome in the response and tolerance pathway to the drought stress in castor bean (*Ricinus communis*)
-* Advisor: Dr. Gilberto Sachetto-Martins
-* Scholarship from: CNPq and FAPERJ
+* __2019 - 2020__
+* University of California Riverside, Riverside, California, United States of America
+* Coursework : Data Mining Techniques, Big Data Management, Information Retrieval and Web Search, Spatial Computing, Advanced Computer Architecture, Advanced Operating Systems.
+
  
