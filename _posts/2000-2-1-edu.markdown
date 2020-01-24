@@ -2,13 +2,11 @@
 layout: default
 img: Master.JPG
 category: Education
-title: Master's in Plant Physiology
-description: |
+title: Bachelor of Engineering in Computer Engineering
+description: 2015 - 2019
 ---
 
-* __2010 - 2012__
-* Federal University of Viçosa, Viçosa, Brazil
-* Production, accumulation and exudation of organic acids on aluminum toxicity in *Stylosanthes*.
-* Advisor: Dr. José Cambraia
-* Scholarship from: CNPq
+* __2015 - 2019__
+* LDRP Institute of Technology and Research
+* Coursework : Artificial Intelligence, Database Management Systems, Advanced Java, Data Structures and Algorithms, Cryptography and Network Security.
 
