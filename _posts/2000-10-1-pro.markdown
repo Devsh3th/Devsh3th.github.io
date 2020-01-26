@@ -5,6 +5,7 @@ category: Projects
 title: "Asylum Seekers"
 description: |
 ---
+* Tableau Visualization story [link](https://public.tableau.com/profile/devansh.sheth#!/vizhome/AsylumSeekers_15794170821030/Story1).
 * Analysed the data of more than 1.4M asylum seekers for a time interval of 18 years with respect to their origin, where all the refugees were moving to and what is the pattern over the years.
 * Concluded the top 2 countries where the most originate from and which countries are most accepting the refugees.
 * Visualized all these information in the form of Tableau story and a dashboard with an interactive filter for year so that user can change the year and see how the pattern changes every year.
