@@ -9,3 +9,4 @@ description: |
 * Analyzed the weather data and subway data of New York City how much impact does weather make on subway ridership.
 * Found the time intervals and days when frequency of subway should be decreased as ridership is less than 50%.
 * Visualized the results with seaborn library for better understandings of results.
+* See more information [here](https://github.com/Devsh3th/NYC_Weather_Subway).
