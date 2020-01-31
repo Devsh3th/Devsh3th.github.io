@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: GSS.png
 category: Projects
 title: "Global Superstore Sales"
 description: |
