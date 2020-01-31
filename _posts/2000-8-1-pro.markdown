@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: NYCSubW.jpg
 category: Projects
 title: "NYC Weather and Subway Data"
 description: |
