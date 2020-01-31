@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: IdeaCafe.jpg
 category: Projects
 title: "Idea Cafè"
 description: |
