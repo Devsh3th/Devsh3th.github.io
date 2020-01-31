@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: house_sales.jpg
 category: Projects
 title: "House Sales in King County"
 description: |
