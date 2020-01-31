@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Master.JPG
+img: pro/ldrp.jpeg
 category: Education
 title: Bachelor of Engineering in Computer Engineering
 description: 2015 - 2019
