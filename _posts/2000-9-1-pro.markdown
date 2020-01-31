@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: CCD.jpg
 category: Projects
 title: "Credit Card Default Predictor"
 description: |
