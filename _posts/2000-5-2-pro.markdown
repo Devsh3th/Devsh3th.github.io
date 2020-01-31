@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: Retail_intel.jpeg
 category: Projects
 title: "Retail Intelligence"
 description: |
