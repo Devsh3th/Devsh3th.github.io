@@ -1,6 +1,6 @@
 ---
 layout: default
-img: AsySeek.png
+img: AsySeek.jpg
 category: Projects
 title: "Asylum Seekers"
 description: |
